@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(250, 250, 250);
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.image {
+  width: 30%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.imageBackground {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: rgba(14, 33, 58, 1);
+}
+.GuidelinesBG {
+  width: 100%;
+  margin: 30px;
+  background-color: rgb(216, 19, 134);
+}
+.Banner {
+  width: 60%;
+}
+.PreventionBanner {
+  margin: 30px;
+  width: 40%;
+}
