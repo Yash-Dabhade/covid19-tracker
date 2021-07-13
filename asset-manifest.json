@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/covid19-tracker.git/static/css/main.5fcbcfce.chunk.css",
+    "main.js": "/covid19-tracker.git/static/js/main.30f270b0.chunk.js",
+    "main.js.map": "/covid19-tracker.git/static/js/main.30f270b0.chunk.js.map",
+    "runtime-main.js": "/covid19-tracker.git/static/js/runtime-main.f528dce7.js",
+    "runtime-main.js.map": "/covid19-tracker.git/static/js/runtime-main.f528dce7.js.map",
+    "static/js/2.5f2c271c.chunk.js": "/covid19-tracker.git/static/js/2.5f2c271c.chunk.js",
+    "static/js/2.5f2c271c.chunk.js.map": "/covid19-tracker.git/static/js/2.5f2c271c.chunk.js.map",
+    "index.html": "/covid19-tracker.git/index.html",
+    "static/css/main.5fcbcfce.chunk.css.map": "/covid19-tracker.git/static/css/main.5fcbcfce.chunk.css.map",
+    "static/js/2.5f2c271c.chunk.js.LICENSE.txt": "/covid19-tracker.git/static/js/2.5f2c271c.chunk.js.LICENSE.txt",
+    "static/media/Banner.55b1c7bf.jpg": "/covid19-tracker.git/static/media/Banner.55b1c7bf.jpg",
+    "static/media/preventionBanner.d6e2abb6.jpg": "/covid19-tracker.git/static/media/preventionBanner.d6e2abb6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f528dce7.js",
+    "static/js/2.5f2c271c.chunk.js",
+    "static/css/main.5fcbcfce.chunk.css",
+    "static/js/main.30f270b0.chunk.js"
+  ]
+}
